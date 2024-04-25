@@ -1,0 +1,85 @@
+[33mcommit f1068611d030fddc043d54f16e83408dc2b32286[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 17:08:40 2024 -0300
+
+    Chpater 1: Git's eagerness
+
+[33mcommit d5eef1538a75e4d2308dc93b24b9aa8259842067[m
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 17:06:26 2024 -0300
+
+    New changes into master
+
+[33mcommit 5f3845ca69be02048aa17ccfdbc5630ff3df26e1[m
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 16:58:44 2024 -0300
+
+    New commit
+
+[33mcommit ff40138f36046b6bfc3b055fcec58b078f27337b[m
+Merge: 54e185b 8d82335
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 10:26:07 2024 -0300
+
+    Solving the conflict
+
+[33mcommit 54e185b8301cc90af4c4a1bca46246d7ad1c9930[m
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 10:24:52 2024 -0300
+
+    Changes introduced
+
+[33mcommit 8d82335a968f0a1db3411fbee32125ee6489e904[m[33m ([m[1;32mconflict_branch[m[33m)[m
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 10:22:07 2024 -0300
+
+    Not knowing if this gonna work
+
+[33mcommit fc930b1b5a77dff402b4033352c8eaf48234c89b[m
+Merge: 238a5e9 05267d8
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 10:20:33 2024 -0300
+
+    seeing if it works
+
+[33mcommit 238a5e9c1a0f7b861482828613d479c223e480e7[m
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 10:12:51 2024 -0300
+
+    message of hello everyone
+
+[33mcommit d5bf8519eef11f71b6ce283ead491b48e4e79a4e[m
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 10:10:33 2024 -0300
+
+    Continuing with the story
+
+[33mcommit b2cec0b1efe5fe04ec89e69b79551b71b3a529d6[m
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 10:02:13 2024 -0300
+
+    modification
+
+[33mcommit 05267d86865f5d9992e319a153abbd09a582cabb[m
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 10:00:59 2024 -0300
+
+    chapter 3
+
+[33mcommit 8cbff0f23b363c6253b30ad42c59792fb0cdfeb3[m[33m ([m[1;32mchapter2[m[33m)[m
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 09:43:45 2024 -0300
+
+    Chapter 2: Git's decision
+
+[33mcommit cffbf263e2022d2697495d42f5e0e89cf7e06f29[m
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 09:39:37 2024 -0300
+
+    Chapter 1: Extended story
+
+[33mcommit 27a85616b9af5074a3b933f0c906baed33fe03ba[m
+Author: Matias Suarez <matiagsuarez98@gmail.com>
+Date:   Thu Apr 25 09:34:08 2024 -0300
+
+    Chapter 1: Introduce Git from Init village
